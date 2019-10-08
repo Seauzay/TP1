@@ -1,2 +1,5 @@
 This is my TP1
-Paul Le Meur
+
+Contributors:
+Simon
+Paul
