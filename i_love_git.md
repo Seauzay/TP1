@@ -1,8 +1,15 @@
-Brûler la chandelle par les deux bouts\n
-Jeter le bébé avec l’eau du bain\n
-Pousser mémé dans les orties\n
-Mentir comme un arracheur de dents\n
-S’entendre comme larrons en foire\n
-Faire prendre des vessies pour des lanternes\n
-Prendre la poudre d’escampette\n
+Brûler la chandelle par les deux bouts	
+
+Jeter le bébé avec l’eau du bain 	
+
+Pousser mémé dans les orties	
+
+Mentir comme un arracheur de dents	
+
+S’entendre comme larrons en foire	
+
+Faire prendre des vessies pour des lanternes
+
+Prendre la poudre d’escampette	
+
 De derrière les fagots 
